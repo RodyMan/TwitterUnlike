@@ -9,5 +9,5 @@
 
 Reload if you want the process to end.
 
-As the name states, it unlikes your Twitter likes. 
+As the name states, it unlikes your Twitter likes.. 
 (Be careful about using this especially after Elons dumb update)
