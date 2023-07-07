@@ -1,6 +1,13 @@
 # TwitterUnlike
 
-Go to your Twitter -> Liked Page -> Right Click -> Inspect Element -> Console 
-Paste the code. Reload the page if you wanna stop the proccess.
+-> Go to Twitter  
+-> Go to your Liked/Likes page 
+-> Right Click 
+-> Inspect Element 
+-> Console 
+-> Paste the code.
 
-All the code does is goes through your Liked Page and unlikes tweets evey 1 second.
+Reload if you want the process to end.
+
+As the name states, it unlikes your Twitter likes. 
+(Be careful about using this especially after Elons dumb update)
